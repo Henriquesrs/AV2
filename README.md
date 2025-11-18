@@ -11,4 +11,4 @@ O objetivo foi criar uma solução completa composta por duas aplicações:
 Ambas as aplicações consomem a mesma API REST de alunos, exibindo listagens e detalhes individuais.
 
 🚀 Deploy da Aplicação Web (Vercel)
-👉 https://av-2-mauve.vercel.app/
+👉 https://av-2-phi.vercel.app/
